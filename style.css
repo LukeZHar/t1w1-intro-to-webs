@@ -10,7 +10,7 @@ h1{
 }
 
 h2{
-    color:aquamarine;
+    color: pink;
 }
 body{
     font-family:'Times New Roman', Times, serif;
@@ -42,15 +42,18 @@ footer{
     margin: 0;
 }
 
-ul{
+/*ul{
 
-}
+} */
 
 li{
     font-size: 1.2rem;
 }
-li:nth-child(2){
+li:nth-child(1){
     color: blue;
 } 
+li:nth-child(3){
+    color: red;
+}
 
-/* article > p { font-size: 25px; } /*
+/* article > p { font-size: 25px; } */
